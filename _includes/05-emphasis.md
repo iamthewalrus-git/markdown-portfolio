@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# A list of colours
+1. Red
+2. Black
+3. White
+
+## Some more things
+- C# .NET
+- Agile
+- Lean
+
+You _really_ **need** to see this - it's __**awesome**__!
